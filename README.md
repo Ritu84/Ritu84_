@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Ritu84
-- 👀 I’m interested in open source, AI,ML. 
+- 👋 Hi, I’m Ritu Sharma.
+- 👀 I’m interested in open source,web development, AI,ML. 
 - 🌱 I’m currently learning web development. 
-- 📫 How to reach me: just one step ..
-     Email: sharmaritud8@gmail.com 
+- 📫 How to reach me: just one step away..
+     Email:rsharma114962@gmail.com 
 
 <!---
 Ritu84/Ritu84 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
